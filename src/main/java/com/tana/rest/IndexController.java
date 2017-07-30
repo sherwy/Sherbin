@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 
 @Controller
-public class BinaryToWordRest {
+public class IndexController {
 	
-	private Logger LOGGER = Logger.getLogger(BinaryToWordRest.class);
+	private Logger LOGGER = Logger.getLogger(IndexController.class);
 	
 	@GetMapping("/")
 	public String index(){
