@@ -17,7 +17,7 @@
 			<div class="col s3"></div>
 			<div class="input-field  col s6">
 				<div class="verifyPage-container">
-					<b>Who are you ? นังเบ้อะ :P</b> 
+					<b>Who are you ?</b> 
 					<div class="row">
 					<div class="col s6"><input id="password" type="password"
 						class="validate"></div>
